@@ -80,3 +80,15 @@ a[href="#"] {
     text-align: center;
     padding: 1rem;
 }
+.card-container {
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
